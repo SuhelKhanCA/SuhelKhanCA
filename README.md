@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **SuhelKhanCA/SuhelKhanCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://twitter.com/@suhelkhanalig
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: :)
--->
+
 ## Hi, I'm Suhel Khan 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a strong interest in web development, database management, and creating scalable, efficient applications. Here, you'll find a collection of my projects that reflect my skills and expertise in a variety of technologies.
