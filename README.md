@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
   - HTML5, CSS3, JavaScript
   - React.js, Bootstrap
 - **Backend Development**: 
-  - Node.js, Express.js
   - Python (Django, Flask)
   - PHP
 - **Database Management**:
@@ -26,9 +25,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 - **Version Control**:
   - Git, GitHub
 - **DevOps & Deployment**:
-  - Docker, AWS, Heroku
+  - Docker, Kubernetes
 - **Other Tools & Technologies**:
-  - REST APIs, GraphQL
+  - REST APIs
   - Object-Oriented Programming (OOP)
   - SQL, NoSQL Databases
 
