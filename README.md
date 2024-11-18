@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on AMU eConnect - College Project
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on: College Project
+- 🌱 I’m currently learning React js and Django
 - 👯 I’m looking to collaborate on Python as a backend
 - 🤔 I’m looking for help with WebDev stuff
 - 💬 Ask me about Git and GitHub
@@ -11,12 +11,12 @@
 
 ## Hi, I'm Suhel Khan 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong interest in web development, database management, and creating scalable, efficient applications. Here, you'll find a collection of my projects that reflect my skills and expertise in a variety of technologies.
+Welcome to my GitHub profile! I'm a passionate developer with a strong interest in web development, DevOps, database management, and creating scalable, efficient applications. Here, you'll find a collection of my projects that reflect my skills and expertise in a variety of technologies.
 
 ## 🚀 Skills
 - **Frontend Development**: 
   - HTML5, CSS3, JavaScript
-  - React.js, Bootstrap
+  - React.js, Bootstrap, TailwindCSS
 - **Backend Development**: 
   - Python (Django, Flask)
   - PHP
@@ -33,12 +33,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 ## 📚 Projects
 
-### 1. **[Book Category Website](https://github.com/SuhelKhanCA/BookCategoryWebsite)** 
-A dynamic website for displaying and managing books based on categories and subjects. Built with a modern tech stack to deliver a seamless user experience.
+### 1. **[AMU eConnect Website](https://github.com/SuhelKhanCA/AMU-eConnect)** 
+A dynamic website for networking and connecting with AMU alumni. Built with a modern tech stack to deliver a seamless user experience.
 
-- **Tech Stack**: HTML, CSS, JavaScript, PHP, MySQL, Flask, Django
+- **Tech Stack**: HTML, CSS, JavaScript, Bootstrap, SQLite3, Flask
 - **Features**: 
-  - Book listing and categorization
+  - User listing and categorization
   - Interactive search functionality
   - Dynamic content rendering
 
@@ -51,14 +51,14 @@ My personal portfolio site showcasing projects, skills, and achievements.
   - Smooth scrolling and animations
   - Integration with social media and GitHub
 
-### 3. **[RESTful API for E-Learning](https://github.com/SuhelKhanCA/)**
-A REST API built for an e-learning platform to handle learning management, order processing, and user authentication.
+### 3. **[Dr Recorder](https://github.com/SuhelKhanCA/dr-recorder)**
+A web app built for collecting audio samples for training a **Deep Learning** model.
 
-- **Tech Stack**: LAMP, Flask, Django
+- **Tech Stack**: Bootstrap, Flask, SQLite3
 - **Features**:
-  - Token-based authentication
-  - CRUD operations for products and orders
-  - MySQL integration for scalable data storage
+  - Session management
+  - CRUD operations for audio and orders
+  - Google drive API integration for scalable data storage
 
 ## 📫 Let's Connect
 - GitHub: [SuhelKhanCA](https://github.com/SuhelKhanCA)
