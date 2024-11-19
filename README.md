@@ -63,5 +63,5 @@ A web app built for collecting audio samples for training a **Deep Learning** mo
 ## 📫 Let's Connect
 - GitHub: [SuhelKhanCA](https://github.com/SuhelKhanCA)
 - LinkedIn: [Suhel Khan](https://www.linkedin.com/in/suhelkhanska/)
-- Twitter: [Suhel Khan]([https://www.linkedin.com/in/suhelkhanska/](https://twitter.com/@suhelkhanalig)
+- Twitter: [Suhel Khan](https://twitter.com/@suhelkhanalig)
 - Email: suhelkhanca@gmail.com
