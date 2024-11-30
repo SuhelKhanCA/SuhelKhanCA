@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on: College Project
+- 🔭 I’m currently working on: Problem Solving
 - 🌱 I’m currently learning React js and Django
 - 👯 I’m looking to collaborate on Python as a backend
 - 🤔 I’m looking for help with WebDev stuff
