@@ -131,7 +131,7 @@ A web app built for collecting audio samples for training a **Deep Learning** mo
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuhelKhanCA&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SuhelKhanCA&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
