@@ -8,6 +8,9 @@
 
 ## 💫 About Me
 
+![about_img](https://github.com/user-attachments/assets/2a306ff7-f32c-4228-b87d-85ca44135623)
+
+
 - 🔭 I’m currently working on: Problem Solving
 - 🌱 I’m currently learning React js and Django
 - 👯 I’m looking to collaborate on Python as a backend
@@ -43,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
   - React.js, Bootstrap, TailwindCSS
 - **Backend Development**:
   - Python (Django, Flask)
-  - PHP
+  - JS
   - RESTful API Development
 - **Database Management**:
   - MySQL, PostgreSQL, MongoDB
