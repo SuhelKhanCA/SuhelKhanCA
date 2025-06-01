@@ -8,9 +8,6 @@
 
 ## 💫 About Me
 
-![about_img](https://github.com/user-attachments/assets/2a306ff7-f32c-4228-b87d-85ca44135623)
-
-
 - 🔭 I’m currently working on: Problem Solving
 - 🌱 I’m currently learning React js and Django
 - 👯 I’m looking to collaborate on Python as a backend
@@ -19,6 +16,8 @@
 - 📫 How to reach me: https://twitter.com/@suhelkhanalig
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't love Coding!
+  
+![about_img](https://github.com/user-attachments/assets/2a306ff7-f32c-4228-b87d-85ca44135623)
 
 ## Hi, I'm Suhel Khan 👋
 
